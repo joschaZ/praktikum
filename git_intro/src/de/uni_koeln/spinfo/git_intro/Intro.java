@@ -7,7 +7,6 @@ public class Intro {
 		String hello = "Hello World";
 		
 		System.out.println(hello);
-		System.out.println("Hello Hello");
 
 	}
 
